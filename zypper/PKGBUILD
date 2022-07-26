@@ -1,7 +1,7 @@
 # Maintainer: Yurii Kolesnykov <root@yurikoles.com>
 # Contributor: Daan De Meye <daan.j.demeyer@gmail.com>
 # Contributor: Silvio Knizek <knizek@b1-systems.de>
-Contributor: Houge Langely <hougelangley1987@gmail.com>
+# Contributor: Houge Langely <hougelangley1987@gmail.com>
 
 pkgname=zypper
 pkgver=1.14.52
