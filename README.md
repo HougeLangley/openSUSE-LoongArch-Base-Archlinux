@@ -1,4 +1,4 @@
-# 利用 LoongArch Archlinux 系统构建 LoongArch 基本系统和包管理器
+# 利用 LoongArch Archlinux 系统构建 openSUSE LoongArch 基本系统和包管理器
 
 ## 目前的思路：
 
