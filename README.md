@@ -14,6 +14,8 @@
         - `attr`
         - `autogen`
         - `acl`
+        - `bc`
+        - `bcc`
         - `tar`
 4. 尝试在新世界启动 LoongArch 系统 🤏
 5. 原生系统打包和测试 🤏
